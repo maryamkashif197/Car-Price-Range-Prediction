@@ -1,4 +1,4 @@
-#Car Price Range machine learning project
+# Car Price Range machine learning project
 
 -	Conducted exploratory data analysis on Car Price Range Prediction dataset using Python.
 -	Cleaned and preprocessed the dataset to ensure data quality.
